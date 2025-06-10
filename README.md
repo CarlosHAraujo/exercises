@@ -5,3 +5,4 @@ Below you have the list of directories containing the algorithm implementations,
 - [Zenva courses - Learn Rust Programming for Beginners](Zenva%20courses/Learn%20Rust%20Programming%20for%20Beginners)
 - [Zenva courses - Data Structures with Rust](Zenva%20courses/Data%20Structures%20with%20Rust)
 - [Zenva courses - Rust Parallel Computing Project – Image Processor](Zenva%20courses/Rust%20Parallel%20Computing%20Project%20%E2%80%93%20Image%20Processor)
+- [Zenva courses - Practical Rust – CLI Tools with Clap and Indicatif](Zenva%20courses/Practical%20Rust%20%E2%80%93%20CLI%20Tools%20with%20Clap%20and%20Indicatif)
